@@ -6,17 +6,17 @@ This repository documents my hands-on learning journey through [TryHackMe](https
 
 ## ✅ Completed Rooms
 
-| No. | Room Name                  | Notes |
-|-----|----------------------------|-------|
-| 1   | What is Networking?        | tryhackme-notes/what-is-networking.md |
-| 2   | Networking Concepts        | [View](./completed-rooms/networking-concepts.md) |
-| 3   | Introductory Networking    | [View](./completed-rooms/introductory-networking.md) |
-| 4   | Linux Fundamentals Part 1  | [View](./completed-rooms/linux-fundamentals-part-1.md) |
-| 5   | HTTP in Detail             | [View](./completed-rooms/http-in-detail.md) |
-| 6   | Offensive Security Intro   | [View](./completed-rooms/offensive-security-intro.md) |
-| 7   | Defensive Security Intro   | [View](./completed-rooms/defensive-security-intro.md) |
-| 8   | Careers in Cyber           | [View](./completed-rooms/careers-in-cyber.md) |
-| 9   | Search Skills              | [View](./completed-rooms/search-skills.md) |
+| No. | Room Name                  | 
+|-----|----------------------------|
+| 1   | What is Networking?        |  
+| 2   | Networking Concepts        | 
+| 3   | Introductory Networking    | 
+| 4   | Linux Fundamentals Part 1  | 
+| 5   | HTTP in Detail             | 
+| 6   | Offensive Security Intro   | 
+| 7   | Defensive Security Intro   | 
+| 8   | Careers in Cyber           | 
+| 9   | Search Skills              | 
 
 ---
 
