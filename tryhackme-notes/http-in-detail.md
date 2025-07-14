@@ -1,4 +1,4 @@
-# TryHackMe Room: HTTP in Detail
+# TryHackMe Room: HTTP in Detail-
 
 ## ✅ Room Overview
 Deep dive into how the HTTP protocol works between browsers and web servers.
