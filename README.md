@@ -8,7 +8,7 @@ This repository documents my hands-on learning journey through [TryHackMe](https
 
 | No. | Room Name                  | Notes |
 |-----|----------------------------|-------|
-| 1   | What is Networking?        | [View](./completed-rooms/what-is-networking.md) |
+| 1   | What is Networking?        | tryhackme-notes/what-is-networking.md |
 | 2   | Networking Concepts        | [View](./completed-rooms/networking-concepts.md) |
 | 3   | Introductory Networking    | [View](./completed-rooms/introductory-networking.md) |
 | 4   | Linux Fundamentals Part 1  | [View](./completed-rooms/linux-fundamentals-part-1.md) |
